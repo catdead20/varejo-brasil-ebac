@@ -36,8 +36,3 @@ Essas análises auxiliam na **tomada de decisão estratégica** e no **planejame
 ┣ 📄 relatorio_gerencial.xlsx
 ┣ 🔄 variacao_mensal.xlsx
 ┗ README.md
-
-## 🖼️ Visualização do Dashboard
-
-![Dashboard de Vendas](./analise_de_vendas.png)
-![Ranking por Região](./ranking_regiao.png)
