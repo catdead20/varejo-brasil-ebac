@@ -28,3 +28,11 @@ Essas análises auxiliam na **tomada de decisão estratégica** e no **planejame
 
 ## 📂 Estrutura do Projeto
 
+📦 imagens_projeto_varejo/
+┣ 📊 analise_de_vendas.xlsx
+┣ 📈 meta_de_vendas.xlsx
+┣ 📉 ranking_departamentos.xlsx
+┣ 🌎 ranking_regioes.xlsx
+┣ 📄 relatorio_gerencial.xlsx
+┣ 🔄 variacao_mensal.xlsx
+┗ README.md
